@@ -21,13 +21,14 @@
 - 인과를 상상할 수 있는 마케팅 분석으로 나아가기
 - 현대적인 MDA의 베이지안 방법론과 친해지기
 - 마케팅 도메인의 현직자들과의 고민 나누기
-
+- Marketing Science를 위한 Gitbook 작성 (원하시는 분들 같이 만들어요!)
 
 ## 🧑 팀 소개
 
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Builder** | 권남택 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론, 베이지안, MMM, LMM           |
+| **Project Builder** | [권남택](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론, 베이지안, MMM, LMM           |
+| **Member** | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
 | **Member** | Donald Rubin | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
 | **Member** | Judea pearl | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
 
