@@ -42,19 +42,19 @@
 
 | 주차 | 날짜 | 내용 | 자료 | 발표자 | 
 | ---- | -------- | -------------------------------------- | ------------ | ----- |
-| Week 1 | 2025/03/03 | OT      |  | 권남택  |
-| Week 2 | 2025/03/10 | 인과추론 리뷰 |   | 권남택 | 
-| Week 3 | 2025/03/17 | 베이지안 리뷰 |   | 권남택 | 
-| Week 4 | 2025/03/24 | ⭐가짜연구소 Magical Week 휴식 | - | - | 
-| Week 5 | 2025/03/31 | PyMC Basic + MarTech Day(미정) |   | 미정 | 
-| Week 6 | 2025/04/07 | Various Attribution |  | 미정 | 
-| Week 7 | 2025/04/14 | Experiment and Quasi-Experiment |  | 미정 | 
-| Week 8 | 2025/04/21 | Segmentation & RFM |  | 미정 | 
+| Week 1 | 2025/03/03 | OT      | - | 권남택  |
+| Week 2 | 2025/03/10 | 베이지안 리뷰 | - | 권남택 | 
+| Week 3 | 2025/03/17 | 인과추론 리뷰 | - | 신진수 | 
+| Week 4 | 2025/03/29 | ⭐가짜연구소 인과추론팀 Meet Up | - | - | 
+| Week 5 | 2025/03/31 | PyMC Basic + MarTech Day(미정) | Ch.4 | 권남택 | 
+| Week 6 | 2025/04/07 | Various Attribution | Ch.11 | 미정 | 
+| Week 7 | 2025/04/14 | Experiment and Quasi-Experiment | Ch.13 | 미정 | 
+| Week 8 | 2025/04/21 | Segmentation & RFM | Ch.7 | 미정 | 
 | Week 9 | 2025/04/28 | ⭐가짜연구소 Magical Week 휴식 | - | - | 
-| Week 10 | 2025/05/05 | Customer Lifetime Value with PyMC |  | 미정 | 
-| Week 11 | 2025/05/12 | Customer Survey Analysis (미정) |  | 미정 | 
-| Week 12 | 2025/05/19 | MMM Fundamental with Robyn | | 미정 | 
-| Week 13 | 2025/05/26 | Modern MMM with PyMC & Meridian| | 미정 | 
+| Week 10 | 2025/05/05 | Customer Lifetime Value with PyMC | Ch.8 | 미정 | 
+| Week 11 | 2025/05/12 | Customer Survey Analysis (미정) | Ch.9 | 미정 | 
+| Week 12 | 2025/05/19 | MMM Fundamental with Robyn | Ch.12 | 미정 | 
+| Week 13 | 2025/05/26 | Modern MMM with PyMC & Meridian| Ch.12 | 미정 | 
 
 
 
