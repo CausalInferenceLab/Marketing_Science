@@ -30,7 +30,7 @@
 | **Project Builder** | [권남택](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론, 베이지안, MMM, LMM           |
 | **Member** | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
 | **Member** | [권준혁](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
-| **Member** | [길지홍](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
+| **Member** | [길지홍](https://www.linkedin.com/in/jihonggil/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론, 애드테크, 마케팅 사이언스                  |
 | **Member** | [서승민](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
 | **Member** | [유연승](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
 | **Member** | [정주영](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
