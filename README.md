@@ -33,7 +33,7 @@
 | **Member** | [길지홍](https://www.linkedin.com/in/jihonggil/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론, 애드테크, 마케팅 사이언스                  |
 | **Member** | [서승민](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
 | **Member** | [유연승](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
-| **Member** | [정주영](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
+| **Member** | [정주영](https://www.linkedin.com/in/hereandynow/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론, 마케팅 데이터 분석                  |
 | **Member** | [조보연](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
 | **Member** | [최지환](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
 
