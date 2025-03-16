@@ -25,17 +25,17 @@
 
 ## 🧑 팀 소개
 
-| 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
-|---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Builder** | [권남택](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론, 베이지안, MMM, LMM           |
-| **Member** | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
-| **Member** | [권준혁](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
-| **Member** | [길지홍](https://www.linkedin.com/in/jihonggil/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론, 애드테크, 마케팅 사이언스                  |
-| **Member** | [서승민](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
-| **Member** | [유연승](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
-| **Member** | [정주영](https://www.linkedin.com/in/hereandynow/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론, 마케팅 데이터 분석                  |
-| **Member** | [조보연](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
-| **Member** | [최지환](https://www.linkedin.com/in/namtaek-kwon/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                  |
+| 역할                  | 이름                                                        | 기술 스택 배지                                                                                                               | 주요 관심 분야                  |
+| ------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| **Project Builder** | [권남택](https://www.linkedin.com/in/namtaek-kwon/)          | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론, 베이지안, MMM, LMM      |
+| **Member**          | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                      |
+| **Member**          | [권준혁](https://www.linkedin.com/in/junhyuck-kwon/)         | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론, 베이지안, 마케팅 사이언스 / 전략 |
+| **Member**          | [길지홍](https://www.linkedin.com/in/jihonggil/)             | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론, 애드테크, 마케팅 사이언스      |
+| **Member**          | [서승민](https://www.linkedin.com/in/namtaek-kwon/)          | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                      |
+| **Member**          | [유연승](https://www.linkedin.com/in/namtaek-kwon/)          | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                      |
+| **Member**          | [정주영](https://www.linkedin.com/in/hereandynow/)           | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론, 마케팅 데이터 분석          |
+| **Member**          | [조보연](https://www.linkedin.com/in/namtaek-kwon/)          | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                      |
+| **Member**          | [최지환](https://www.linkedin.com/in/namtaek-kwon/)          | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                      |
 
 
 
@@ -47,21 +47,21 @@
 - 참고자료는 **Data Analytics for Marketing: A practical guide to analyzing marketing data using Python**입니다.
 - 주차별 진행사항은 변동될 수 있습니다.
 
-| 주차 | 날짜 | 내용 | 자료 | 발표자 | 
-| ---- | -------- | -------------------------------------- | ------------ | ----- |
-| Week 1 | 2025/03/03 | OT      | - | 권남택  |
-| Week 2 | 2025/03/10 | 베이지안 리뷰 | - | 권남택 | 
-| Week 3 | 2025/03/17 | 인과추론 리뷰 | - | 신진수 | 
-| Week 4 | 2025/03/29 | ⭐가짜연구소 인과추론팀 Meet Up | - | - | 
-| Week 5 | 2025/03/31 | PyMC Basic + MarTech Day | Ch.4 | 권남택 | 
-| Week 6 | 2025/04/07 | Various Attribution | Ch.11 | 미정 | 
-| Week 7 | 2025/04/14 | Experiment and Quasi-Experiment | Ch.13 | 미정 | 
-| Week 8 | 2025/04/21 | Segmentation & RFM | Ch.7 | 미정 | 
-| Week 9 | 2025/04/28 | ⭐가짜연구소 Magical Week 휴식 | - | - | 
-| Week 10 | 2025/05/05 | Customer Lifetime Value with PyMC | Ch.8 | 미정 | 
-| Week 11 | 2025/05/12 | Customer Survey Analysis | Ch.9 | 미정 | 
-| Week 12 | 2025/05/19 | MMM Fundamental with Robyn | Ch.12 | 미정 | 
-| Week 13 | 2025/05/26 | Modern MMM with PyMC & Meridian| Ch.12 | 미정 | 
+| 주차      | 날짜         | 내용                                | 자료    | 발표자 |     |
+| ------- | ---------- | --------------------------------- | ----- | --- | --- |
+| Week 1  | 2025/03/03 | OT                                | -     | 권남택 |     |
+| Week 2  | 2025/03/10 | 베이지안 리뷰                           | -     | 권남택 |     |
+| Week 3  | 2025/03/17 | 인과추론 리뷰                           | -     | 신진수 |     |
+| Week 4  | 2025/03/29 | ⭐가짜연구소 인과추론팀 Meet Up              | -     | -   |     |
+| Week 5  | 2025/03/31 | PyMC Basic + MarTech Day          | Ch.4  | 권남택 |     |
+| Week 6  | 2025/04/07 | Various Attribution               | Ch.11 | 길지홍 |     |
+| Week 7  | 2025/04/14 | Experiment and Quasi-Experiment   | Ch.13 | 유연승 |     |
+| Week 8  | 2025/04/21 | Segmentation & RFM                | Ch.7  | 조보연 |     |
+| Week 9  | 2025/04/28 | ⭐가짜연구소 Magical Week 휴식            | -     | -   |     |
+| Week 10 | 2025/05/05 | Customer Lifetime Value with PyMC | Ch.8  | 최지환 |     |
+| Week 11 | 2025/05/12 | Customer Survey Analysis          | Ch.9  | 서승민 |     |
+| Week 12 | 2025/05/19 | MMM Fundamental with Robyn        | Ch.12 | 권준혁 |     |
+| Week 13 | 2025/05/26 | Modern MMM with PyMC & Meridian   | Ch.12 | 정주영 |     |
 
 
 
@@ -78,7 +78,7 @@
 - 마케팅 도메인 경험 혹은 관심 권장
 
 **누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
-1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-?? 채널로 입장
+1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-DH 채널로 입장
 2. Magical Week 중 행사에 참가
 3. Pseudo Lab 행사에서 만나기
 
