@@ -53,7 +53,7 @@
 | Week 2  | 2025/03/10 | 베이지안 리뷰                           | -     | 권남택 |     |
 | Week 3  | 2025/03/17 | 인과추론 리뷰                           | -     | 신진수 |     |
 | Week 4  | 2025/03/29 | ⭐가짜연구소 인과추론팀 Meet Up              | -     | -   |     |
-| Week 5  | 2025/03/31 | PyMC Basic + MarTech Day          | Ch.4  | 권남택 |     |
+| Week 5  | 2025/03/31 | PyMC Basic + TVC          | Ch.4  | 권남택 |     |
 | Week 6  | 2025/04/07 | Various Attribution               | Ch.11 | 길지홍 |     |
 | Week 7  | 2025/04/14 | Experiment and Quasi-Experiment   | Ch.13 | 유연승 |     |
 | Week 8  | 2025/04/21 | Segmentation & RFM                | Ch.7  | 조보연 |     |
