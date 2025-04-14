@@ -31,7 +31,6 @@
 | **Member**          | [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                      |
 | **Member**          | [권준혁](https://www.linkedin.com/in/junhyuck-kwon/)         | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론, 베이지안, 마케팅 사이언스 / 전략 |
 | **Member**          | [길지홍](https://www.linkedin.com/in/jihonggil/)             | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론, 애드테크, 마케팅 사이언스      |
-| **Member**          | [서승민](https://www.linkedin.com/in/namtaek-kwon/)          | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                      |
 | **Member**          | [유연승](https://www.linkedin.com/in/namtaek-kwon/)          | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                      |
 | **Member**          | [정주영](https://www.linkedin.com/in/hereandynow/)           | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론, 마케팅 데이터 분석          |
 | **Member**          | [조보연](https://www.linkedin.com/in/namtaek-kwon/)          | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 인과추론                      |
@@ -59,7 +58,7 @@
 | Week 8  | 2025/04/21 | Segmentation & RFM                | Ch.7  | 조보연 |     |
 | Week 9  | 2025/04/28 | ⭐가짜연구소 Magical Week 휴식            | -     | -   |     |
 | Week 10 | 2025/05/05 | Customer Lifetime Value with PyMC | Ch.8  | 최지환 |     |
-| Week 11 | 2025/05/12 | Customer Survey Analysis          | Ch.9  | 서승민 |     |
+| Week 11 | 2025/05/12 | -         | -  | - |     |
 | Week 12 | 2025/05/19 | MMM Fundamental with Robyn        | Ch.12 | 권준혁 |     |
 | Week 13 | 2025/05/26 | Modern MMM with PyMC & Meridian   | Ch.12 | 정주영 |     |
 
